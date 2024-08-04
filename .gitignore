@@ -17,8 +17,8 @@
 
 # IDEs and editors
 /frontend/.idea
-/frontend/.project
-/frontend/.classpath
+/.project
+/.classpath
 /frontend/.c9/
 *.launch
 .settings/
@@ -33,9 +33,9 @@
 .history/*
 
 # misc
-/frontend/.sass-cache
-/frontend/connect.lock
-/frontend/coverage
+/.sass-cache
+/connect.lock
+/coverage
 /frontend/libpeerconnection.log
 /frontend/npm-debug.log
 /frontend/yarn-error.log
